@@ -1,0 +1,7 @@
+mkdir test
+git clone https://github.com/Aosborn86/prework.git
+cd https://github.com/Aosborn86/prework.git
+touch sample.txt
+git add . 
+git commit -m "hello" 
+git push origin main
